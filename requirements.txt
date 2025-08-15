@@ -1,7 +1,8 @@
-flask==3.0.3
-flask-cors==4.0.0
-python-dotenv==1.0.1
-PyMuPDF==1.24.9
-pinecone-client==4.1.0
-langchain-huggingface==0.1.0
-google-generativeai==0.8.3
+flask
+flask-cors
+python-dotenv
+PyMuPDF
+pinecone-client
+langchain-huggingface
+google-generativeai
+
