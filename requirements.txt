@@ -2,8 +2,9 @@ flask
 flask-cors
 python-dotenv
 PyMuPDF
-pinecone-client
+pinecone>=4.1.0
 langchain-huggingface
+sentence-transformers
 google-generativeai
 gunicorn
-
+gunicorn
